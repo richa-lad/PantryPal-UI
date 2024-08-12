@@ -20,3 +20,6 @@ npm install
 npx expo start
 ```
 6. Follow the instructions in the terminal
+
+### Ideas
+![Alt text](image.png)
